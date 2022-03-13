@@ -11,13 +11,14 @@
   ✨<strong>Areas of expertise :</strong>
    <ul>
       <li>Software Engineering</li>
-      <li>Networking or Cloud Computing</li>
+      <li>Network Engineering</li>
    </ul>
    
   🌱<strong>I’m currently learning :</strong>
    <ul>
       <li>Network Infrastructure on local</li> 
       <li>Network Security</li> 
+      <li>Cloud Computing</li> 
    </ul> 
 </p>
 
