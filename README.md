@@ -5,7 +5,7 @@
     <ul>
       <li>Hello, i am Agi</li>
       <li>3th-years technology information student at <a href="https://it.ittelkom-sby.ac.id/" target="_blank">Institut Teknologi Telkom Surabaya</a>. <br></li>
-      <li>Love to develop the app and design IT infrastructures<br><br></li>
+      <li>Love to develop the app and design IT infrastructures</li>
    </ul>
    
   ✨<strong>Areas of expertise :</strong>
