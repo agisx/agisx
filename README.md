@@ -2,11 +2,7 @@
 
 <p align="justify"> 
   👤 <strong>About me :</strong>
-    <ul>
-      <li>Hello, i am Agi</li>
-      <li>3th-years technology information student at <a href="https://it.ittelkom-sby.ac.id/" target="_blank">Institut Teknologi Telkom Surabaya</a>. <br></li>
-      <li>Love to develop the app and design IT infrastructures</li>
-   </ul>
+    Agi is a software engineer with 3 years of relevant experience and a Bachelor of Technology degree in Information Technology. Agi has skills in Laravel, SQL, C#, and Javascript. Agi has developed a mobile application for rubber plantation system digitalization using Android IDE and Laravel.
    
   ✨<strong>Areas of expertise :</strong>
    <ul>
@@ -16,8 +12,6 @@
    
   🌱<strong>I’m currently learning :</strong>
    <ul>
-      <li>Network Infrastructure on local</li> 
-      <li>Network Security</li> 
       <li>Cloud Computing</li> 
    </ul> 
 </p>
