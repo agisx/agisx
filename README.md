@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <p align="justify"> 
-  👤 <strong>About me :</strong>
-    Agi is a software engineer with 3 years of relevant experience and a Bachelor of Technology degree in Information Technology. Agi has skills in Laravel, SQL, C#, and Javascript. Agi has developed a mobile application for rubber plantation system digitalization using Android IDE and Laravel.
+  👤 <strong>Agi</strong>
+    is a software engineer with 3 years of relevant experience and a Bachelor of Technology degree in Information Technology. Agi has skills in Laravel, SQL, C#, and Javascript. Agi has developed a mobile application for rubber plantation system digitalization using Android IDE and Laravel.
    
   ✨<strong>Areas of expertise :</strong>
    <ul>
