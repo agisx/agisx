@@ -7,11 +7,12 @@
   ✨<strong>Areas of expertise :</strong>
    <ul>
       <li>Software Engineering</li>
-      <li>Network Engineering</li>
+      <li>System Administration</li>
    </ul>
    
   🌱<strong>I’m currently learning :</strong>
    <ul>
+      <li>Network Engineering</li> 
       <li>Cloud Computing</li> 
    </ul> 
 </p>
